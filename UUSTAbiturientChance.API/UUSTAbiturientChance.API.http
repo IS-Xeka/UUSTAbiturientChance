@@ -1,0 +1,6 @@
+@UUSTAbiturientChance.API_HostAddress = http://localhost:5214
+
+GET {{UUSTAbiturientChance.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PetProjects\\UUSTAbiturientChance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD19526-2EE0-40CC-9E40-635E473061A6}|UUSTAbiturientChance\\UUSTAbiturientChance.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD19526-2EE0-40CC-9E40-635E473061A6}|UUSTAbiturientChance\\UUSTAbiturientChance.csproj|solutionrelative:uustabiturientchance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance\\Program.cs",
+              "RelativeDocumentMoniker": "UUSTAbiturientChance\\Program.cs",
+              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance\\Program.cs",
+              "RelativeToolTip": "UUSTAbiturientChance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:15:49.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
