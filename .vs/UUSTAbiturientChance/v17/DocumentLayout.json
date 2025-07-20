@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "D:\\PetProjects\\UUSTAbiturientChance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.dataaccess\\repositories\\applicantsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|solutionrelative:uustabiturientchance.dataaccess\\repositories\\applicantsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.dataaccess\\extensions\\applicantentityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|solutionrelative:uustabiturientchance.dataaccess\\extensions\\applicantentityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{426F3785-131A-42BF-B1C1-43B48654796F}|UUSTAbiturientChance.Core\\UUSTAbiturientChance.Core.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.core\\abstractions\\iapplicantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{426F3785-131A-42BF-B1C1-43B48654796F}|UUSTAbiturientChance.Core\\UUSTAbiturientChance.Core.csproj|solutionrelative:uustabiturientchance.core\\abstractions\\iapplicantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.dataaccess\\uustabiturientchancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|solutionrelative:uustabiturientchance.dataaccess\\uustabiturientchancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.dataaccess\\configurations\\applicantsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|solutionrelative:uustabiturientchance.dataaccess\\configurations\\applicantsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.dataaccess\\entities\\applicantentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|solutionrelative:uustabiturientchance.dataaccess\\entities\\applicantentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B37AF6D1-4759-43EA-8462-9C15F20B1C4F}|UUSTAbiturientChance.API\\UUSTAbiturientChance.API.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.api\\controllers\\applicantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37AF6D1-4759-43EA-8462-9C15F20B1C4F}|UUSTAbiturientChance.API\\UUSTAbiturientChance.API.csproj|solutionrelative:uustabiturientchance.api\\controllers\\applicantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B37AF6D1-4759-43EA-8462-9C15F20B1C4F}|UUSTAbiturientChance.API\\UUSTAbiturientChance.API.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B37AF6D1-4759-43EA-8462-9C15F20B1C4F}|UUSTAbiturientChance.API\\UUSTAbiturientChance.API.csproj|solutionrelative:uustabiturientchance.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B37AF6D1-4759-43EA-8462-9C15F20B1C4F}|UUSTAbiturientChance.API\\UUSTAbiturientChance.API.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.api\\controllers\\applicantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B37AF6D1-4759-43EA-8462-9C15F20B1C4F}|UUSTAbiturientChance.API\\UUSTAbiturientChance.API.csproj|solutionrelative:uustabiturientchance.api\\controllers\\applicantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E345A361-307B-4170-AAF9-5A6335DE8F55}|UUSTAbiturientChance.Application\\UUSTAbiturientChance.Application.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.application\\srvices\\applicantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E345A361-307B-4170-AAF9-5A6335DE8F55}|UUSTAbiturientChance.Application\\UUSTAbiturientChance.Application.csproj|solutionrelative:uustabiturientchance.application\\srvices\\applicantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E345A361-307B-4170-AAF9-5A6335DE8F55}|UUSTAbiturientChance.Application\\UUSTAbiturientChance.Application.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.application\\uustabiturientchance.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E345A361-307B-4170-AAF9-5A6335DE8F55}|UUSTAbiturientChance.Application\\UUSTAbiturientChance.Application.csproj|solutionrelative:uustabiturientchance.application\\uustabiturientchance.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426F3785-131A-42BF-B1C1-43B48654796F}|UUSTAbiturientChance.Core\\UUSTAbiturientChance.Core.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.core\\abstractions\\iapplicantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426F3785-131A-42BF-B1C1-43B48654796F}|UUSTAbiturientChance.Core\\UUSTAbiturientChance.Core.csproj|solutionrelative:uustabiturientchance.core\\abstractions\\iapplicantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B37AF6D1-4759-43EA-8462-9C15F20B1C4F}|UUSTAbiturientChance.API\\UUSTAbiturientChance.API.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.api\\contracts\\applicantresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +35,36 @@
       "RelativeMoniker": "D:0:0:{B37AF6D1-4759-43EA-8462-9C15F20B1C4F}|UUSTAbiturientChance.API\\UUSTAbiturientChance.API.csproj|solutionrelative:uustabiturientchance.api\\contracts\\applicantrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{426F3785-131A-42BF-B1C1-43B48654796F}|UUSTAbiturientChance.Core\\UUSTAbiturientChance.Core.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.core\\abstractions\\iapplicantsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426F3785-131A-42BF-B1C1-43B48654796F}|UUSTAbiturientChance.Core\\UUSTAbiturientChance.Core.csproj|solutionrelative:uustabiturientchance.core\\abstractions\\iapplicantsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.dataaccess\\entities\\applicantentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|solutionrelative:uustabiturientchance.dataaccess\\entities\\applicantentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.dataaccess\\repositories\\applicantsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|solutionrelative:uustabiturientchance.dataaccess\\repositories\\applicantsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{426F3785-131A-42BF-B1C1-43B48654796F}|UUSTAbiturientChance.Core\\UUSTAbiturientChance.Core.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.core\\models\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{426F3785-131A-42BF-B1C1-43B48654796F}|UUSTAbiturientChance.Core\\UUSTAbiturientChance.Core.csproj|solutionrelative:uustabiturientchance.core\\models\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E345A361-307B-4170-AAF9-5A6335DE8F55}|UUSTAbiturientChance.Application\\UUSTAbiturientChance.Application.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.application\\srvices\\applicantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E345A361-307B-4170-AAF9-5A6335DE8F55}|UUSTAbiturientChance.Application\\UUSTAbiturientChance.Application.csproj|solutionrelative:uustabiturientchance.application\\srvices\\applicantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.dataaccess\\uustabiturientchance.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|solutionrelative:uustabiturientchance.dataaccess\\uustabiturientchance.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.dataaccess\\configurations\\applicantsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|solutionrelative:uustabiturientchance.dataaccess\\configurations\\applicantsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E345A361-307B-4170-AAF9-5A6335DE8F55}|UUSTAbiturientChance.Application\\UUSTAbiturientChance.Application.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.application\\srvices\\excelimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E345A361-307B-4170-AAF9-5A6335DE8F55}|UUSTAbiturientChance.Application\\UUSTAbiturientChance.Application.csproj|solutionrelative:uustabiturientchance.application\\srvices\\excelimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.dataaccess\\uustabiturientchancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|solutionrelative:uustabiturientchance.dataaccess\\uustabiturientchancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B37AF6D1-4759-43EA-8462-9C15F20B1C4F}|UUSTAbiturientChance.API\\UUSTAbiturientChance.API.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -61,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B37AF6D1-4759-43EA-8462-9C15F20B1C4F}|UUSTAbiturientChance.API\\UUSTAbiturientChance.API.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.api\\uustabiturientchance.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B37AF6D1-4759-43EA-8462-9C15F20B1C4F}|UUSTAbiturientChance.API\\UUSTAbiturientChance.API.csproj|solutionrelative:uustabiturientchance.api\\uustabiturientchance.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.dataaccess\\uustabiturientchance.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E22ED487-182D-4294-B3A7-F21FA9EA37C3}|UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj|solutionrelative:uustabiturientchance.dataaccess\\uustabiturientchance.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{426F3785-131A-42BF-B1C1-43B48654796F}|UUSTAbiturientChance.Core\\UUSTAbiturientChance.Core.csproj|d:\\petprojects\\uustabiturientchance\\uustabiturientchance.core\\uustabiturientchance.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -82,102 +94,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IApplicantsService.cs",
-              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.Core\\Abstractions\\IApplicantsService.cs",
-              "RelativeDocumentMoniker": "UUSTAbiturientChance.Core\\Abstractions\\IApplicantsService.cs",
-              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.Core\\Abstractions\\IApplicantsService.cs",
-              "RelativeToolTip": "UUSTAbiturientChance.Core\\Abstractions\\IApplicantsService.cs",
+              "DocumentIndex": 4,
+              "Title": "UUSTAbiturientChance.Application",
+              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.Application\\UUSTAbiturientChance.Application.csproj",
+              "RelativeDocumentMoniker": "UUSTAbiturientChance.Application\\UUSTAbiturientChance.Application.csproj",
+              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.Application\\UUSTAbiturientChance.Application.csproj",
+              "RelativeToolTip": "UUSTAbiturientChance.Application\\UUSTAbiturientChance.Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T19:16:02.188Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T09:06:42.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ApplicantRequest.cs",
-              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\Contracts\\ApplicantRequest.cs",
-              "RelativeDocumentMoniker": "UUSTAbiturientChance.API\\Contracts\\ApplicantRequest.cs",
-              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\Contracts\\ApplicantRequest.cs",
-              "RelativeToolTip": "UUSTAbiturientChance.API\\Contracts\\ApplicantRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Title": "IApplicantsRepository.cs",
+              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.Core\\Abstractions\\IApplicantsRepository.cs",
+              "RelativeDocumentMoniker": "UUSTAbiturientChance.Core\\Abstractions\\IApplicantsRepository.cs",
+              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.Core\\Abstractions\\IApplicantsRepository.cs",
+              "RelativeToolTip": "UUSTAbiturientChance.Core\\Abstractions\\IApplicantsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T18:56:48.79Z",
+              "WhenOpened": "2025-07-20T08:52:54.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "ApplicantEntityExtensions.cs",
+              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.DataAccess\\Extensions\\ApplicantEntityExtensions.cs",
+              "RelativeDocumentMoniker": "UUSTAbiturientChance.DataAccess\\Extensions\\ApplicantEntityExtensions.cs",
+              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.DataAccess\\Extensions\\ApplicantEntityExtensions.cs",
+              "RelativeToolTip": "UUSTAbiturientChance.DataAccess\\Extensions\\ApplicantEntityExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:43:47.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ApplicantResponse.cs",
               "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\Contracts\\ApplicantResponse.cs",
               "RelativeDocumentMoniker": "UUSTAbiturientChance.API\\Contracts\\ApplicantResponse.cs",
               "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\Contracts\\ApplicantResponse.cs",
               "RelativeToolTip": "UUSTAbiturientChance.API\\Contracts\\ApplicantResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-19T18:56:20.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\docker-compose.yml",
-              "RelativeDocumentMoniker": "UUSTAbiturientChance.API\\docker-compose.yml",
-              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\docker-compose.yml",
-              "RelativeToolTip": "UUSTAbiturientChance.API\\docker-compose.yml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-07-19T18:10:15.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "UUSTAbiturientChance.API\\appsettings.Development.json",
-              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\appsettings.Development.json",
-              "RelativeToolTip": "UUSTAbiturientChance.API\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-19T18:08:10.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "ApplicantsRepository.cs",
               "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.DataAccess\\Repositories\\ApplicantsRepository.cs",
               "RelativeDocumentMoniker": "UUSTAbiturientChance.DataAccess\\Repositories\\ApplicantsRepository.cs",
               "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.DataAccess\\Repositories\\ApplicantsRepository.cs",
               "RelativeToolTip": "UUSTAbiturientChance.DataAccess\\Repositories\\ApplicantsRepository.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAtwA4AAAAxAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwFEAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-19T18:01:28.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "ApplicantsConfiguration.cs",
               "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.DataAccess\\Configurations\\ApplicantsConfiguration.cs",
               "RelativeDocumentMoniker": "UUSTAbiturientChance.DataAccess\\Configurations\\ApplicantsConfiguration.cs",
               "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.DataAccess\\Configurations\\ApplicantsConfiguration.cs",
               "RelativeToolTip": "UUSTAbiturientChance.DataAccess\\Configurations\\ApplicantsConfiguration.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAgwEEAAAAAAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-19T18:01:10.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ApplicantEntity.cs",
               "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.DataAccess\\Entities\\ApplicantEntity.cs",
               "RelativeDocumentMoniker": "UUSTAbiturientChance.DataAccess\\Entities\\ApplicantEntity.cs",
@@ -190,46 +189,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UUSTAbiturientChanceDbContext.cs",
-              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.DataAccess\\UUSTAbiturientChanceDbContext.cs",
-              "RelativeDocumentMoniker": "UUSTAbiturientChance.DataAccess\\UUSTAbiturientChanceDbContext.cs",
-              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.DataAccess\\UUSTAbiturientChanceDbContext.cs",
-              "RelativeToolTip": "UUSTAbiturientChance.DataAccess\\UUSTAbiturientChanceDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T17:55:29.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "ApplicantsController.cs",
               "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\Controllers\\ApplicantsController.cs",
               "RelativeDocumentMoniker": "UUSTAbiturientChance.API\\Controllers\\ApplicantsController.cs",
               "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\Controllers\\ApplicantsController.cs",
               "RelativeToolTip": "UUSTAbiturientChance.API\\Controllers\\ApplicantsController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAD4AAAAFAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwFoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-19T17:25:54.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\Program.cs",
-              "RelativeDocumentMoniker": "UUSTAbiturientChance.API\\Program.cs",
-              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\Program.cs",
-              "RelativeToolTip": "UUSTAbiturientChance.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T17:23:27.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "ExcelImportService.cs",
               "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.Application\\Srvices\\ExcelImportService.cs",
               "RelativeDocumentMoniker": "UUSTAbiturientChance.Application\\Srvices\\ExcelImportService.cs",
@@ -242,34 +215,86 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ApplicantsService.cs",
-              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.Application\\Srvices\\ApplicantsService.cs",
-              "RelativeDocumentMoniker": "UUSTAbiturientChance.Application\\Srvices\\ApplicantsService.cs",
-              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.Application\\Srvices\\ApplicantsService.cs",
-              "RelativeToolTip": "UUSTAbiturientChance.Application\\Srvices\\ApplicantsService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T17:46:40.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Applicant.cs",
               "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.Core\\Models\\Applicant.cs",
               "RelativeDocumentMoniker": "UUSTAbiturientChance.Core\\Models\\Applicant.cs",
               "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.Core\\Models\\Applicant.cs",
               "RelativeToolTip": "UUSTAbiturientChance.Core\\Models\\Applicant.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAZAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwEsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-19T17:30:32.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicantsService.cs",
+              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.Application\\Srvices\\ApplicantsService.cs",
+              "RelativeDocumentMoniker": "UUSTAbiturientChance.Application\\Srvices\\ApplicantsService.cs",
+              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.Application\\Srvices\\ApplicantsService.cs",
+              "RelativeToolTip": "UUSTAbiturientChance.Application\\Srvices\\ApplicantsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:46:40.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\Program.cs",
+              "RelativeDocumentMoniker": "UUSTAbiturientChance.API\\Program.cs",
+              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\Program.cs",
+              "RelativeToolTip": "UUSTAbiturientChance.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:23:27.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IApplicantsService.cs",
+              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.Core\\Abstractions\\IApplicantsService.cs",
+              "RelativeDocumentMoniker": "UUSTAbiturientChance.Core\\Abstractions\\IApplicantsService.cs",
+              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.Core\\Abstractions\\IApplicantsService.cs",
+              "RelativeToolTip": "UUSTAbiturientChance.Core\\Abstractions\\IApplicantsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T19:16:02.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicantRequest.cs",
+              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\Contracts\\ApplicantRequest.cs",
+              "RelativeDocumentMoniker": "UUSTAbiturientChance.API\\Contracts\\ApplicantRequest.cs",
+              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\Contracts\\ApplicantRequest.cs",
+              "RelativeToolTip": "UUSTAbiturientChance.API\\Contracts\\ApplicantRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:56:48.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "UUSTAbiturientChance.DataAccess",
+              "Title": "UUSTAbiturientChanceDbContext.cs",
+              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.DataAccess\\UUSTAbiturientChanceDbContext.cs",
+              "RelativeDocumentMoniker": "UUSTAbiturientChance.DataAccess\\UUSTAbiturientChanceDbContext.cs",
+              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.DataAccess\\UUSTAbiturientChanceDbContext.cs",
+              "RelativeToolTip": "UUSTAbiturientChance.DataAccess\\UUSTAbiturientChanceDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:55:29.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UUSTAbiturientChance.DataAccess.csproj",
               "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj",
               "RelativeDocumentMoniker": "UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj",
               "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.DataAccess\\UUSTAbiturientChance.DataAccess.csproj",
@@ -281,8 +306,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UUSTAbiturientChance.API",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UUSTAbiturientChance.API\\appsettings.Development.json",
+              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\appsettings.Development.json",
+              "RelativeToolTip": "UUSTAbiturientChance.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-19T18:08:10.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\docker-compose.yml",
+              "RelativeDocumentMoniker": "UUSTAbiturientChance.API\\docker-compose.yml",
+              "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\docker-compose.yml",
+              "RelativeToolTip": "UUSTAbiturientChance.API\\docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-19T18:10:15.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UUSTAbiturientChance.API.csproj",
               "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\UUSTAbiturientChance.API.csproj",
               "RelativeDocumentMoniker": "UUSTAbiturientChance.API\\UUSTAbiturientChance.API.csproj",
               "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.API\\UUSTAbiturientChance.API.csproj",
@@ -294,20 +345,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UUSTAbiturientChance.Core",
+              "DocumentIndex": 19,
+              "Title": "UUSTAbiturientChance.Core.csproj",
               "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.Core\\UUSTAbiturientChance.Core.csproj",
               "RelativeDocumentMoniker": "UUSTAbiturientChance.Core\\UUSTAbiturientChance.Core.csproj",
               "ToolTip": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance.Core\\UUSTAbiturientChance.Core.csproj",
               "RelativeToolTip": "UUSTAbiturientChance.Core\\UUSTAbiturientChance.Core.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-07-19T17:30:09.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PetProjects\\UUSTAbiturientChance\\UUSTAbiturientChance\\Program.cs",
               "RelativeDocumentMoniker": "UUSTAbiturientChance\\Program.cs",

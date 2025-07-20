@@ -9,7 +9,7 @@ public class ApplicantsConfiguration : IEntityTypeConfiguration<ApplicantEntity>
 {
     public void Configure(EntityTypeBuilder<ApplicantEntity> builder)
     {
-        builder.HasKey(a => a.Id);
+        builder.HasKey(a => a.UniqueCode);
 
         builder.Property(a => a.UniqueCode)
             .IsRequired()

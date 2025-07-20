@@ -15,9 +15,9 @@ namespace UUSTAbiturientChance.DataAccess.Migrations
                 name: "Applicants",
                 columns: table => new
                 {
+                    UniqueCode = table.Column<string>(type: "character varying(50)", maxLength: 50, nullable: false),
                     Id = table.Column<Guid>(type: "uuid", nullable: false),
                     PCode = table.Column<int>(type: "integer", nullable: false),
-                    UniqueCode = table.Column<string>(type: "character varying(50)", maxLength: 50, nullable: false),
                     HasNoEntranceTests = table.Column<bool>(type: "boolean", nullable: false),
                     TotalCompetitiveScore = table.Column<int>(type: "integer", nullable: false),
                     TotalEntranceTestsScore = table.Column<int>(type: "integer", nullable: false),
@@ -33,7 +33,7 @@ namespace UUSTAbiturientChance.DataAccess.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Applicants", x => x.Id);
+                    table.PrimaryKey("PK_Applicants", x => x.UniqueCode);
                 });
 
             migrationBuilder.CreateIndex(

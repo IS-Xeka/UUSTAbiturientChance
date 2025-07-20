@@ -1,9 +1,8 @@
 ﻿namespace UUSTAbiturientChance.API.Contracts;
 
 public record ApplicantResponse(
-    Guid Id,
-    int PCode,
     string UniqueCode,
+    int PCode,
     bool HasNoEntranceTests,
     int TotalCompetitiveScore,
     int TotalEntranceTestsScore,

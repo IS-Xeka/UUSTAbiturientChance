@@ -1,14 +1,15 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using CSharpFunctionalExtensions;
+using System.ComponentModel.DataAnnotations;
 
 namespace UUSTAbiturientChance.Core.Models;
 
 public class Applicant
 {
-    public Guid Id { get; set; }
+    [Key]
+    public string UniqueCode { get; set; }
 
     [Required]
     public int PCode { get; set; }
-    public string UniqueCode { get; set; }
     public bool HasNoEntranceTests { get; set; }
     public int TotalCompetitiveScore { get; set; }
     public int TotalEntranceTestsScore { get; set; }
@@ -25,9 +26,8 @@ public class Applicant
     public IReadOnlyCollection<string> AppliedPrograms => _appliedPrograms.AsReadOnly();
 
     public Applicant(
-        Guid id,
-        int pCode,
         string uniqueCode,
+        int pCode,
         bool hasNoEntranceTests,
         int totalCompetitiveScore,
         int totalEntranceTestsScore,
@@ -40,9 +40,8 @@ public class Applicant
         bool hasEnrollmentConsent,
         int priority)
     {
-        Id = id;
-        PCode = pCode;
         UniqueCode = uniqueCode;
+        PCode = pCode;
         HasNoEntranceTests = hasNoEntranceTests;
         TotalCompetitiveScore = totalCompetitiveScore;
         TotalEntranceTestsScore = totalEntranceTestsScore;
@@ -56,10 +55,9 @@ public class Applicant
         Priority = priority;
     }
 
-    public static Applicant Create(
-        Guid id,
-        int pCode,
+    public static Result<Applicant> Create(
         string uniqueCode,
+        int pCode,
         bool hasNoEntranceTests,
         int totalCompetitiveScore,
         int totalEntranceTestsScore,
@@ -72,10 +70,9 @@ public class Applicant
         bool hasEnrollmentConsent,
         int priority)
     {
-        return new Applicant(
-            id,
-            pCode,
+        return Result.Success(new Applicant(
             uniqueCode,
+            pCode,
             hasNoEntranceTests,
             totalCompetitiveScore,
             totalEntranceTestsScore,
@@ -86,6 +83,6 @@ public class Applicant
             hasFirstPriorityRightArticle,
             hasSecondPriorityRightArticle,
             hasEnrollmentConsent,
-            priority);
+            priority));
     }
 }

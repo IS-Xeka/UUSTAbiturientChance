@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using CSharpFunctionalExtensions;
+using Microsoft.AspNetCore.Mvc;
 using UUSTAbiturientChance.API.Contracts;
 using UUSTAbiturientChance.Application.Srvices;
 using UUSTAbiturientChance.Core.Models;
@@ -15,14 +16,15 @@ public class ApplicantsController : Controller
         _applicantsService = applicantsService;
     }
     [HttpGet]
+    [Route("GetByUniqueCode")]
     public async Task<ActionResult<ApplicantResponse>> GetByUniqueCode(string uniqueCode)
     {
-        var applicant = await _applicantsService.GetByUniqueCode(uniqueCode);
+        var applicantResult = await _applicantsService.GetApplicantByUniqueCode(uniqueCode);
+        var applicant = applicantResult.Value;
         var applicantResponse = new ApplicantResponse
         (
-            applicant.Id,
-            applicant.PCode,
             applicant.UniqueCode,
+            applicant.PCode,
             applicant.HasNoEntranceTests,
             applicant.TotalCompetitiveScore,
             applicant.TotalEntranceTestsScore,
@@ -40,12 +42,12 @@ public class ApplicantsController : Controller
     }
 
     [HttpPost]
+    [Route("CreateApplicant")]
     public async Task<ActionResult> CreateApplicant([FromBody] ApplicantRequest request)
     {
-        var applicant = Applicant.Create(
-            Guid.NewGuid(),
-            request.PCode,
+        var applicantResult = Applicant.Create(
             request.UniqueCode,
+            request.PCode,
             request.HasNoEntranceTests,
             request.TotalCompetitiveScore,
             request.TotalEntranceTestsScore,
@@ -58,7 +60,31 @@ public class ApplicantsController : Controller
             request.HasEnrollmentConsent,
             request.Priority
             );
-        await _applicantsService.CreateApplicant(applicant);
+
+        await _applicantsService.CreateApplicant(applicantResult.Value);
         return Ok();
+    }
+
+    [HttpGet]
+    [Route("GetAll")]
+    public async Task<ActionResult> GetAll()
+    {
+        var applicantEntitesResult = await _applicantsService.GetAllApplicants();
+        return Ok(applicantEntitesResult.Value.Select(a => new ApplicantResponse
+        (
+            a.UniqueCode,
+            a.PCode,
+            a.HasNoEntranceTests,
+            a.TotalCompetitiveScore,
+            a.TotalEntranceTestsScore,
+            a.MathAlgebraGeometryScore,
+            a.InformatcPhysicScore,
+            a.RussianLanguageScore,
+            a.IndividualAchievementsScore,
+            a.HasFirstPriorityRightArticle,
+            a.HasSecondPriorityRightArticle,
+            a.HasEnrollmentConsent,
+            a.Priority
+            )).ToList());
     }
 }

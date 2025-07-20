@@ -12,7 +12,7 @@ using UUSTAbiturientChance.DataAccess;
 namespace UUSTAbiturientChance.DataAccess.Migrations
 {
     [DbContext(typeof(UUSTAbiturientChanceDbContext))]
-    [Migration("20250719183344_init")]
+    [Migration("20250720090847_init")]
     partial class init
     {
         /// <inheritdoc />
@@ -27,9 +27,9 @@ namespace UUSTAbiturientChance.DataAccess.Migrations
 
             modelBuilder.Entity("UUSTAbiturientChance.Application.Srvices.Entities.ApplicantEntity", b =>
                 {
-                    b.Property<Guid>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("uuid");
+                    b.Property<string>("UniqueCode")
+                        .HasMaxLength(50)
+                        .HasColumnType("character varying(50)");
 
                     b.Property<string>("AppliedPrograms")
                         .IsRequired()
@@ -46,6 +46,9 @@ namespace UUSTAbiturientChance.DataAccess.Migrations
 
                     b.Property<bool>("HasSecondPriorityRightArticle")
                         .HasColumnType("boolean");
+
+                    b.Property<Guid>("Id")
+                        .HasColumnType("uuid");
 
                     b.Property<int>("IndividualAchievementsScore")
                         .HasColumnType("integer");
@@ -71,12 +74,7 @@ namespace UUSTAbiturientChance.DataAccess.Migrations
                     b.Property<int>("TotalEntranceTestsScore")
                         .HasColumnType("integer");
 
-                    b.Property<string>("UniqueCode")
-                        .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("character varying(50)");
-
-                    b.HasKey("Id");
+                    b.HasKey("UniqueCode");
 
                     b.HasIndex("TotalCompetitiveScore");
 
